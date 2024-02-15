@@ -48,6 +48,9 @@ The Bootloader GUI is shown below:
 
 ![image](https://github.com/shilianzhao/STM32F4-Bootloader-with-Python-GUI/assets/31520270/e3ac59d9-e264-46fd-8c64-f741bd8741b5)
 
+## Video
+https://github.com/shilianzhao/STM32F4-Bootloader-with-Python-GUI/assets/31520270/2e38246f-5bcb-4cc2-aa19-05f42dfaeb3f
+
 ## 5. How to test codes
 
 1.	Set Boot0 = 0, Boot1 = 0, connect USB cable from PC to Nucleo-F401 board. 
