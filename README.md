@@ -3,6 +3,7 @@
  Python script which creates GUI to talk to the STM32 bootloader to download firmware from PC to STM32 microcontrollers over UART. This is tested with STM32F401, but it applied to almost all STM32 series: STM32F0/F1/F2/F3/F4/G0/G4/H7/L0/L1/L4. 
 ## 1. Project folder
  Local computer: C:\Users\Owner\OneDrive\Documents\STM32F4_Bootloader
+ 
  Github: https://github.com/shilianzhao/STM32F4-Bootloader-with-Python-GUI
 ## 2. Hardware settings
  Microcontroller: 	STM Nucleo-F401RE
